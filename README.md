@@ -3,14 +3,10 @@
 This is a Code editor theme for Brackets, and high recommended for HTML, CSS, JavaScript, PHP programmers.
 
 <h2>Notes:</h2>
+
 <ul>
   <li>This theme is also available for Japanese and Chinese languages. </li>
-  <li>The default font of this theme is "Monaco". You can download ttf file form <a href="/sources/0.png">here.</li>
-</ul>
-
-
-<ul>
-  <li>Brackets</li>
+  <li>The default font of this theme is "Monaco". You can download ttf file form <a href="/sources/MONACO.TTF" target="_blank" download="Monaco.ttf">here.</li>
 </ul>
 
 <h2>Screenshots:</h2>
