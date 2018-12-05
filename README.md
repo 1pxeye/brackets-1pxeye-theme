@@ -1,5 +1,19 @@
 # brackets-1pxeye-theme
-Code editor theme for Brackets
+
+This is a Code editor theme for Brackets, and high recommended for HTML, CSS, JavaScript, PHP programmers.
+
+<h2>Notes:</h2>
+<ul>
+  <li>This theme is also available for Japanese and Chinese languages. </li>
+  <li>The default font of this theme is "Monaco". You can download ttf file form <a href="/sources/0.png">here.</li>
+</ul>
+
+
+<ul>
+  <li>Brackets</li>
+</ul>
+
+<h2>Screenshots:</h2>
 
 <h3>Minified CSS file</h3>
 
@@ -17,7 +31,7 @@ Code editor theme for Brackets
 
 ![Alt text](/sources/3.png?raw=false "PHP file")
 
-<h3>JavaScript fil</h3>
+<h3>JavaScript file</h3>
 
 ![Alt text](/sources/4.png?raw=false "JavaScript file")
 
