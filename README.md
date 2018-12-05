@@ -52,3 +52,5 @@ Download <a href="/1pxeye-code-editor.zip" target="_blank">Zip file</a>, then dr
 
 ![Alt text](/sources/6.png?raw=false "Japanese")
 
+<p style="font-size:36px;text-align:center;margin:30px auto">Hope you like this. Have a good coding time. ^^</p>
+
