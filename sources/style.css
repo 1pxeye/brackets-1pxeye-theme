@@ -1,0 +1,200 @@
+.CodeMirror {
+    font-weight: 400;
+    font-family: Monaco, "メイリオ", "Hiragino Kaku Gothic ProN", "微软雅黑", "Microsoft Yahei", "宋体", "MS PGothic", sans-serif
+}
+
+.CodeMirror,
+.CodeMirror-scroll {
+    background: #111;
+    color: #e9e9e9;
+    line-height: 1.5em
+}
+
+.CodeMirror-gutters {
+    background: #111
+}
+
+.CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt,
+.CodeMirror-focused .CodeMirror-activeline-background,
+.inline-widget .CodeMirror-gutter-elt {
+    background: #3c3f41
+}
+
+.CodeMirror-linenumber {
+    color: #333
+}
+
+.CodeMirror-focused .CodeMirror-activeline .CodeMirror-gutter-elt {
+    color: #e9e9e9
+}
+
+.CodeMirror-cursor {
+    border-left: 1px solid #e9e9e9 !important
+}
+
+.CodeMirror-focused .CodeMirror-selected {
+    background: #449cff
+}
+
+.CodeMirror-selected {
+    opacity: .3
+}
+
+.CodeMirror-matchingbracket {
+    background: 0 0 !important;
+    color: #1dff00 !important;
+    text-shadow: 0 0 10px #1dff00;
+    font-weight: 700
+}
+
+.CodeMirror-nonmatchingbracket {
+    background: #e80487 !important;
+    color: #e9e9e9 !important
+}
+
+.CodeMirror-matchingtag {
+    background: rgba(255, 255, 255, .15)
+}
+
+.CodeMirror-overwrite .CodeMirror-cursor {
+    border-left: none !important;
+    border-bottom: 1px solid #e9e9e9
+}
+
+.CodeMirror-searching {
+    background: #e6db74
+}
+
+.searching-current-match {
+    background: #fd971f
+}
+
+.CodeMirror-foldgutter-open:after {
+    content: "-";
+    font-size: 1.3em;
+    font-weight: 700;
+    color: #999
+}
+
+.CodeMirror-foldgutter-folded:after {
+    content: "+";
+    font-size: 1.3em;
+    font-weight: 700;
+    background: 0 0 !important;
+    color: #1dff00 !important;
+    text-shadow: 0 0 10px #1dff00
+}
+
+.CodeMirror-foldgutter-folded {
+    padding-top: 2px
+}
+
+.CodeMirror-foldgutter-open {
+    padding-top: 1px
+}
+
+.CodeMirror-foldmarker {
+    display: inline-block;
+    border-radius: .75em;
+    padding: 0 2px;
+    border: 0;
+    font-size: .75em;
+    color: #1dff00 !important;
+    text-shadow: 0 0 10px #1dff00;
+    background: 0 0
+}
+
+.CodeMirror-foldmarker:after {
+    content: '\2022\2022\2022';
+    position: relative;
+    top: 1px
+}
+
+.ico-cssColorPreview {
+    border-radius: 50%;
+    width: 6px;
+    height: 6px;
+    margin-bottom: 2px
+}
+
+.brackets-git-gutter-added,
+.brackets-git-gutter-modified,
+.brackets-git-gutter-removed {
+    width: 3px
+}
+
+.cm-keyword {
+    color: #f2c679
+}
+
+.cm-tag {
+    color: #d85b65
+}
+
+.cm-atom {
+    color: #ce9178
+}
+
+.cm-link {
+    color: #a2c285
+}
+
+.cm-number {
+    color: #a2c285
+}
+
+.cm-operator {
+    color: #fff
+}
+
+.cm-variable {
+    color: #62b9d4
+}
+
+.cm-variable-3 {
+    color: #e9e9e9
+}
+
+.cm-attribute {
+    color: #e2c17d
+}
+
+.cm-qualifier {
+    color: #a2c285
+}
+
+.cm-builtin {
+    color: #a2c285
+}
+
+.cm-meta {
+    color: #f9f9f9
+}
+
+.cm-string,
+.cm-string-2 {
+    color: #a2c285
+}
+
+.cm-property {
+    color: #6bc1d0
+}
+
+.cm-comment {
+    color: #666;
+    font-style: italic
+}
+
+.cm-def,
+.cm-variable-2 {
+    color: #e06c75
+}
+
+.cm-matchhighlight {
+    background: #333
+}
+
+.cm-error {
+    background: rgba(240, 32, 75, .6);
+    color: #e9e9e9 !important
+}
