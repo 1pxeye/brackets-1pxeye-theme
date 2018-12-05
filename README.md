@@ -4,9 +4,12 @@ This is a Code editor theme for Brackets, and high recommended for HTML, CSS, Ja
 <br>
 <br>
 <h2>Installation:</h2>
+
 <h3>Step1</h3>
+
 Open the extension manager from "File>Extension Manager"
 <h3>Step2</h3>
+
 Download <a href="/1pxeye-code-editor.zip" target="_blank">Zip file</a>, then drag it to the "Extension Manager" panel like below.
 
 ![Alt text](/sources/step.png?raw=false "installation")
