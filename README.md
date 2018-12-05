@@ -1,6 +1,6 @@
 # Brackets 1pxeye theme
 
-This is a Code editor theme for Brackets, and high recommended for HTML, CSS, JavaScript, PHP programmers.
+It is a code editor theme for Brackets, and high recommended for HTML, CSS, JavaScript, PHP programmers.
 <br>
 <br>
 <h2>Installation:</h2>
