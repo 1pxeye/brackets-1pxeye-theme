@@ -52,5 +52,8 @@ Download <a href="/1pxeye-code-editor.zip" target="_blank">Zip file</a>, then dr
 
 ![Alt text](/sources/6.png?raw=false "Japanese")
 
+<br>
+If you have any problem, Send email to me <a href="mailto:wg@1pxeye.com">wg@1pxeye.com</a>
+<br>
 <h4>Hope you like this. Have a good coding time. ^^</h4>
 
